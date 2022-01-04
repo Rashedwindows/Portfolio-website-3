@@ -17,7 +17,7 @@ body{
 
 section{
 
-    margin-bottom: 180px;
+    margin-bottom: 150px;
 }
 
 
@@ -29,6 +29,7 @@ section{
     width: 50%;
     margin-left: 75px;
     margin-right: 20px;
+   
 }
 
 .half-part img{
@@ -93,6 +94,17 @@ section{
     margin-right: 116px;
 }
 
+
+.exp{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+   
+}
+
+
 .exp h1{
 
     font-size: 50px;
@@ -107,6 +119,7 @@ section{
     margin-left: 50px;
     padding-left: 50px;
     padding-bottom: 20px;
+    margin-bottom: 3%;
 }
 
 .bg h1{
@@ -139,4 +152,10 @@ section{
     border-left: 10px solid;
     border-image: linear-gradient(blue,purple);
     border-image-slice: 1;
+}
+
+footer p{
+
+    text-align: center;
+    color:dimgray;
 }
