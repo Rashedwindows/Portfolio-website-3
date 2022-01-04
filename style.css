@@ -15,6 +15,15 @@ body{
     
 }
 
+section{
+
+    margin-bottom: 150px;
+}
+
+
+
+
+
 .half-part{
 
     width: 50%;
@@ -70,4 +79,16 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     
+}
+
+.dreambig{
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+
+.secondsectionmodify{
+
+    margin-right: 116px;
 }
