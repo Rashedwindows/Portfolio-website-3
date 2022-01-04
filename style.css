@@ -27,7 +27,7 @@ section{
 .half-part{
 
     width: 50%;
-    margin-left: 80px;
+    margin-left: 75px;
     margin-right: 20px;
 }
 
@@ -91,4 +91,52 @@ section{
 .secondsectionmodify{
 
     margin-right: 116px;
+}
+
+.exp h1{
+
+    font-size: 50px;
+    margin-bottom: 2%;
+}
+
+
+
+.bg{
+
+    box-shadow: 5px 5px 15px gray;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.bg h1{
+
+    font-size: 40px;
+    
+}
+
+.baby{
+
+    color:blue;
+}
+
+.full{
+
+    color:purple;
+}
+
+
+
+#fullstack{
+
+    border-left: 10px solid;
+    border-image: linear-gradient(tomato,lightsalmon);
+    border-image-slice: 1;
+}
+
+#baby{
+
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,purple);
+    border-image-slice: 1;
 }
